@@ -1,0 +1,2 @@
+# softphone-pjsip
+Configurações gerais
